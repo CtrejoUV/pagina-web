@@ -1,1 +1,0 @@
-alert("Este es un mensaje es para revertir un commit!!!");
